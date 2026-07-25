@@ -20,8 +20,7 @@ Aero 是一款以空岛生存为基础、围绕强化航空玩法打造的整合
   { id: 'bilibili', text: '介绍视频', icon: '/imgs/svg/bilibili.svg', link: 'https://www.bilibili.com/video/BV1vYKF6GEoC/' },
   { id: 'modrinth', text: '下载i18n模组', icon: '/imgs/svg/curseforge.svg', link: 'https://cdn.modrinth.com/data/PWERr14M/versions/4ihDUjWs/I18nUpdateMod-3.7.0-all.jar' },
   { id: 'github', text: 'GitHub仓库', icon: '/imgs/svg/github.svg', link: 'https://github.com/VM-Chinese-translate-group/FTB-Skies2-Aero' },
-  { id: 'lazy', text: '懒汉下载', icon: '/imgs/lazydl.png', link: 'https://vmhanhuazu.lanzouv.com/s/skies2aero
-  ' }
+  { id: 'lazy', text: '懒汉下载', icon: '/imgs/lazydl.png', link: 'https://vmhanhuazu.lanzouv.com/s/skies2aero' }
 ]" />
 
 Aero 保留了FTB Skies 2中广受好评的内容：经过大规模视觉与教学改造、专门适配全新体验的任务书，科技与魔法发展路线，以及两者背后深厚的自动化体系。
