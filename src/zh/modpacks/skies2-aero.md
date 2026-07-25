@@ -35,7 +35,7 @@ Aero 保留了FTB Skies 2中广受好评的内容：经过大规模视觉与教�
 
 | 整合包下载地址                                                             | 加载器   | 支持整合包版本 | MC版本 | 汉化维护状态 |
 | :------------------------------------------------------------------------- | :------- | :------------- | :----- | :----------- |
-| [下载链接](https://www.curseforge.com/minecraft/modpacks/ftb-skies-2-aero) | Neoforge | 1.0.3          | 1.21.1 | 维护中       |
+| [下载链接](https://www.curseforge.com/minecraft/modpacks/ftb-skies-2-aero) | Neoforge | 1.1.0          | 1.21.1 | 维护中       |
 
 汉化项目：[Paratranz](https://paratranz.cn/projects/19713)
 

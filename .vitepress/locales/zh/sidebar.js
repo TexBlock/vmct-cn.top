@@ -9,6 +9,7 @@ const sidebar = {
       text: "整合包汉化",
       collapsed: false,
       items: [
+        { text: "破碎城", link: "/modpacks/fractured-opolis" },
         { text: "FTB Skies2: Aero", link: "/modpacks/skies2-aero" },
         { text: "FTB石头世界4", link: "/modpacks/sb4/" },
         { text: "吸血鬼的反击", link: "/modpacks/vampires-strike-back" },
