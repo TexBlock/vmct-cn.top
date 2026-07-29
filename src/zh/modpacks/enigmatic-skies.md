@@ -20,7 +20,7 @@ Enigmatic Skies是一款以流程推进为核心的整合包，目标看似简�
 
 | 整合包下载地址                                                        | 加载器   | 支持整合包版本  | 汉化状态 |
 | :-------------------------------------------------------------------- | :------- | :-------------- | :------- |
-| [链接](https://www.curseforge.com/minecraft/modpacks/enigmatic-skies) | Neoforge | mc1.21.1 1.13.0 | 维护中   |
+| [链接](https://www.curseforge.com/minecraft/modpacks/enigmatic-skies) | Neoforge | mc1.21.1 1.14.0 | 维护中   |
 
 汉化项目：[Paratranz](https://paratranz.cn/projects/18919)
 
