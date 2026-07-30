@@ -21,7 +21,7 @@ FTB Evolution 将你带入一个无限的 Minecraft 世界，在这里，先进�
 
 | FTB官网                                                     | 加载器   | 支持整合包版本  | 汉化维护状态 |
 | :---------------------------------------------------------- | :------- | :-------------- | :----------- |
-| <https://www.feed-the-beast.com/modpacks/125-ftb-evolution> | Neoforge | mc1.21.1 1.39.0 | 翻译中       |
+| <https://www.feed-the-beast.com/modpacks/125-ftb-evolution> | Neoforge | mc1.21.1 1.40.0 | 翻译中       |
 
 汉化项目：[Paratranz](https://paratranz.cn/projects/12144)
 

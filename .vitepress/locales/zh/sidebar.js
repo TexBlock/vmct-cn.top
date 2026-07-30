@@ -125,6 +125,7 @@ const sidebar = {
         { text: "狂乱之境4", link: "/map/rc4" },
         { text: "太阳守卫者2：搁浅", link: "/map/sun-guardian2" },
         { text: "Tales of Glarthford", link: "/map/tales-of-glarthford" },
+        { text: "露台3：碎裂", link: "/map/the-terrace-3-shattered" },
         { text: "艺之神殿", link: "/map/tota" },
         { text: "Wii派对：棋盘游戏岛", link: "/map/wii-party" },
         { text: "Would You Rather", link: "/map/wyr" },

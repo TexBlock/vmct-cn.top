@@ -95,4 +95,9 @@ features:
     details:
     link: ./tales-of-glarthford
     linkText: 前往下载
+  - icon:
+    title: 露台3：碎裂汉化
+    details: 🔴
+    link: ./the-terrace-3-shattered
+    linkText: 前往下载
 ---
