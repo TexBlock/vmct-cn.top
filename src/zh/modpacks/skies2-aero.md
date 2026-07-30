@@ -5,6 +5,8 @@ title: FTB Skies 2 Aero汉化下载
 
 Aero 是一款以空岛生存为基础、围绕强化航空玩法打造的整合包，旨在提供精心设计且不必反复苦刷的成长体验。
 
+![](https://media.forgecdn.net/attachments/1795/167/classic_island1_compress-png.png)
+
 所有玩家都会出生在同一个公共大厅，并可从多种初始基地中选择一种。其中包括两艘可驾驶的飞艇，只要你愿意，进入世界后的第一分钟便能直接驾船启航。
 
 大厅之外是一片所有玩家共享的主世界。整个世界由漂浮岛屿组成的群岛，以及散布其中的手工定制岛屿构成。
@@ -15,7 +17,7 @@ Aero 是一款以空岛生存为基础、围绕强化航空玩法打造的整合
 
 <DownloadLinks :methods="[
   { id: 'quark-lanzou', text: '下载汉化', icon: '/imgs/logo/logo_64.png', lanzouLink: 'https://vmhanhuazu.lanzouv.com/s/skies2aero', quarkLink: 'https://pan.quark.cn/s/6c7d678d6310' },
-  { id: 'bilibili', text: '介绍视频', icon: '/imgs/svg/bilibili.svg', link: 'https://www.bilibili.com/video/' },
+  { id: 'bilibili', text: '介绍视频', icon: '/imgs/svg/bilibili.svg', link: 'https://www.bilibili.com/video/BV1vYKF6GEoC/' },
   { id: 'modrinth', text: '下载i18n模组', icon: '/imgs/svg/curseforge.svg', link: 'https://cdn.modrinth.com/data/PWERr14M/versions/4ihDUjWs/I18nUpdateMod-3.7.0-all.jar' },
   { id: 'github', text: 'GitHub仓库', icon: '/imgs/svg/github.svg', link: 'https://github.com/VM-Chinese-translate-group/FTB-Skies2-Aero' },
   { id: 'lazy', text: '懒汉下载', icon: '/imgs/lazydl.png', link: 'https://vmhanhuazu.lanzouv.com/s/skies2aero' }
@@ -30,9 +32,9 @@ Aero 保留了FTB Skies 2中广受好评的内容：经过大规模视觉与教�
 
 岛屿之间的大部分天空空无一物——而这正是你需要飞行的理由
 
-| 整合包下载                                             | 加载器   | 支持整合包版本 | 汉化维护状态 |
-| :-------------------------------------------------- | :------- | :------------- | :----------- |
-| [链接](https://www.curseforge.com/minecraft/modpacks/ftb-skies-2-aero) | Neoforge | 1.21.1 1.0.0 | 维护中       |
+| 整合包下载地址                                                             | 加载器   | 支持整合包版本 | MC版本 | 汉化维护状态 |
+| :------------------------------------------------------------------------- | :------- | :------------- | :----- | :----------- |
+| [下载链接](https://www.curseforge.com/minecraft/modpacks/ftb-skies-2-aero) | Neoforge | 1.2.1          | 1.21.1 | 维护中       |
 
 汉化项目：[Paratranz](https://paratranz.cn/projects/19713)
 
