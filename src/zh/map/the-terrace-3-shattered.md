@@ -13,14 +13,8 @@ layout: doc
 
 探索 4 个风格迥异的主题世界，解开超过 150 道精心设计的谜题，并寻找隐藏在地图各处的可选秘密谜题。 谜题验证和提示功能等新机制能够在不降低挑战性的前提下为玩家提供引导， 而通过算法验证解法的谜题则带来了更加流畅、稳定的解谜体验。
 
-> [!IMPORTANT] ⚙️ 安装教程
-> 联机游玩：
-> 服务端正常安装地图。
-> 将地图文件夹中的 `resources.zip` 分发给所有玩家，放入各自游戏版本的 `.minecraft\resourcepacks` 文件夹。
-> 玩家进入游戏后，在“选项”→“资源包”中启用该资源包。
-
 <DownloadLinks :methods="[
-  { id: 'quark-lanzou', text: '下载汉化', icon: '/imgs/logo/logo_64.png', lanzouLink: '/doing', quarkLink: '/doing' },
+  { id: 'quark-lanzou', text: '下载汉化', icon: '/imgs/logo/logo_64.png', lanzouLink: 'https://vmhanhuazu.lanzouv.com/s/terrace3', quarkLink: 'https://pan.quark.cn/s/be63f4d9075f' },
   { id: 'minecraftmaps', text: '地图原帖', icon: '/imgs/svg/minecraftmaps.ico', link: 'https://www.minecraftmaps.com/52344-the-terrace-3-shattered' }
 ]" />
 
